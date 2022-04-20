@@ -1,12 +1,11 @@
 <pre>                                                                                      
-                                                                                                                        
-88  88888888ba          db         88b           d88         db         8b        d8        ,ad8888ba,    88        88  
-88  88      "8b        d88b        888b         d888        d88b         Y8,    ,8P        d8"'    `"8b   88        88  
-88  88      ,8P       d8'`8b       88`8b       d8'88       d8'`8b         `8b  d8'        d8'        `8b  88        88  
-88  88aaaaaa8P'      d8'  `8b      88 `8b     d8' 88      d8'  `8b          Y88P          88          88  88        88  
-88  88""""88'       d8YaaaaY8b     88  `8b   d8'  88     d8YaaaaY8b         d88b          88          88  88        88  
-88  88    `8b      d8""""""""8b    88   `8b d8'   88    d8""""""""8b      ,8P  Y8,        Y8,        ,8P  88        88  
-88  88     `8b    d8'        `8b   88    `888'    88   d8'        `8b    d8'    `8b        Y8a.    .a8P   Y8a.    .a8P  
-88  88      `8b  d8'          `8b  88     `8'     88  d8'          `8b  8P        Y8        `"Y8888Y"'     `"Y8888Y"'   
-                                                                                                                        
-                                                                                                                        </pre>
+                                                                           
+`7MMF'`7MM"""Mq.        db      `7MMM.     ,MMF'      db      `YMM'   `MP' 
+  MM    MM   `MM.      ;MM:       MMMb    dPMM       ;MM:       VMb.  ,P   
+  MM    MM   ,M9      ,V^MM.      M YM   ,M MM      ,V^MM.       `MM.M'    
+  MM    MMmmdM9      ,M  `MM      M  Mb  M' MM     ,M  `MM         MMb     
+  MM    MM  YM.      AbmmmqMA     M  YM.P'  MM     AbmmmqMA      ,M'`Mb.   
+  MM    MM   `Mb.   A'     VML    M  `YM'   MM    A'     VML    ,P   `MM.  
+.JMML..JMML. .JMM..AMA.   .AMMA..JML. `'  .JMML..AMA.   .AMMA..MM:.  .:MMa.
+                                                                           
+                                                                           </pre>
